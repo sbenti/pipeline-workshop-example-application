@@ -1,0 +1,5 @@
+name: my schedule
+
+on:
+   schedule:
+    - xron: '50 14 * *'
